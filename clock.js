@@ -27,7 +27,7 @@ function showTime() {
 
     var clock = document.getElementById("myClock")
     clock.innerText = `${hour}:${minute}:${second}  ${day}`
-    setTimeout(startTime, 1000);
+    setTimeout(showTime, 1000);
 }
 
 var myName = document.getElementById("myName")
