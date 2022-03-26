@@ -7,14 +7,14 @@
 
 
 ```
-git clone https://github.com/meliketekin/kodluyoruzClock
+git clone https://github.com/meliketekin/JavaScriptClock
 ```
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 Linux için:
 ```
-cd kodluyoruzClock
+cd JavaScriptClock
 code .
 ```
 ## Contributing
