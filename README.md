@@ -1,10 +1,9 @@
-# Kodluyoruz Clock
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluşturduğum ikinci repo. 
+# JavaScript Clock 
 
 İçerisinde bir adet README dosyası, bir adet index.html, bir adet clock.js, bir adet style.css barındırıyor.
 
 ## Installation
-Öncelikle projeyi clonelayın. [Repo-link](https://github.com/meliketekin/kodluyoruzClock)
+Öncelikle projeyi clonelayın. [Repo-link](https://github.com/meliketekin/JavaScriptClock)
 
 
 ```
